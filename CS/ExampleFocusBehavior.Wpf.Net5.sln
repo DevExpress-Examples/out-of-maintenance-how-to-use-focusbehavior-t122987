@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleFocusBehavior.Wpf", "ExampleFocusBehavior.Wpf.csproj", "{9FA04D5C-DA8E-439D-8357-CD93A628E7C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleFocusBehavior.Wpf", "ExampleFocusBehavior.Wpf.Net5.csproj", "{9FA04D5C-DA8E-439D-8357-CD93A628E7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
